@@ -1,5 +1,4 @@
-<img src="./img.png" alt="Huginn and Muninn" width="1000">
-
+![Kafka](./img.png)
 In Norse mythology, Huginn and Muninn are a pair of ravens that fly all over the world and bring information to the god Odin.
 
 Muginn from *One Piece* is also a raven inspired by the aforementioned duo that lives in the Land of Gods, Elbaf.
